@@ -1,4 +1,4 @@
-# Maranguta
+# Maranguita
 Banda Maranguita
 <!DOCTYPE html>
 <html lang="es">
