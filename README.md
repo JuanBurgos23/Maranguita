@@ -142,7 +142,7 @@
                         <h3>Pablo de Vargas</h3>
                         <p>Fundador de Maranguita</p>
                     </div>
-                    <div class="servicio-ind">
+                     <div class="servicio-ind">
                         <img src="imagen/13.jpg" width="200"height="250">
                         <h3>Cristian Mux</h3>
                         <p> Administrador</p>
