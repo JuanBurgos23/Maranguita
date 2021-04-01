@@ -1,5 +1,3 @@
-# Maranguita
-Banda Maranguita
 <!DOCTYPE html>
 <html lang="es">
 
@@ -136,7 +134,7 @@ Banda Maranguita
                 <h2 class="titulo">Aun no se que poner</h2>
                 <div class="servicio-cont">
                     <div class="servicio-ind">
-                         <img src="imagen/lucia.jpg" width="200"height="250">
+                        <img src="imagen/lucia.jpg" width="200"height="250">
                         <h3>Lucia de Labarthe</h3>
                         <p>fundadora de Maranguita</p>
                         
@@ -149,7 +147,7 @@ Banda Maranguita
                     <div class="servicio-ind">
                         <img src="imagen/13.jpg" width="200"height="250">
                         <h3>Cristian Mux</h3>
-                        <p> Administrador</p>p>
+                        <p> Administrador</p>
                     </div>
                 </div>
             </div>
@@ -167,12 +165,12 @@ Banda Maranguita
             </div>
             <div class="content-foo">
                 <h4>Location</h4>
-                <p>No se xd</p>
+                <p >No se xd</p>
             </div>
         </div>
         <h2 class="titulo-final">&copy; | Maranguita | </h2>
     </footer>
-      <audio controls src="https://mus7.djxd.tk/mp3/6808b57b-63ec-40e3-92c0-92e879bb5f9e.mp3" preload="preload" autoplay="autoplay" loop="false" width="250" height="60" ></audio>
+    <audio controls src="https://mus7.djxd.tk/mp3/6808b57b-63ec-40e3-92c0-92e879bb5f9e.mp3" preload="preload" autoplay="autoplay" loop="false" width="250" height="60" ></audio>
 </body>
 
 </html>
