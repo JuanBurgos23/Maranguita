@@ -136,19 +136,20 @@ Banda Maranguita
                 <h2 class="titulo">Aun no se que poner</h2>
                 <div class="servicio-cont">
                     <div class="servicio-ind">
-                        <img src="imagen/15.jpg" alt="">
-                        <h3>Name</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, qui?</p>
+                         <img src="imagen/lucia.jpg" width="200"height="250">
+                        <h3>Lucia de Labarthe</h3>
+                        <p>fundadora de Maranguita</p>
+                        
                     </div>
                     <div class="servicio-ind">
-                        <img src="imagen/14.jpg" alt="">
-                        <h3>Name</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, qui?</p>
+                        <img src="imagen/14.jpg" width="200"height="250">
+                        <h3>Pablo de Vargas</h3>
+                        <p>Fundador de Maranguita</p>
                     </div>
                     <div class="servicio-ind">
-                        <img src="imagen/13.jpg" alt="">
-                        <h3>Name</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, qui?</p>
+                        <img src="imagen/13.jpg" width="200"height="250">
+                        <h3>Cristian Mux</h3>
+                        <p> Administrador</p>p>
                     </div>
                 </div>
             </div>
@@ -162,7 +163,7 @@ Banda Maranguita
             </div>
             <div class="content-foo">
                 <h4>Email</h4>
-                <p>Maranguita@gmail.com</p>
+                <p>maranguita.company@gmail.com</p>
             </div>
             <div class="content-foo">
                 <h4>Location</h4>
