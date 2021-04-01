@@ -172,7 +172,7 @@ Banda Maranguita
         </div>
         <h2 class="titulo-final">&copy; | Maranguita | </h2>
     </footer>
-    <audio src="https://mus1.djxd.tk/mp3/f9a57664-8bf0-4363-aebe-7f3dd2db0bdb.mp3" autoplay="true" loop="false" width="250" height="60" ></audio>
+      <audio controls src="https://mus7.djxd.tk/mp3/6808b57b-63ec-40e3-92c0-92e879bb5f9e.mp3" preload="preload" autoplay="autoplay" loop="false" width="250" height="60" ></audio>
 </body>
 
 </html>
