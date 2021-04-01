@@ -18,8 +18,7 @@
             <a href="#">Acerca de</a>
             <a href="#">Mensaje</a>
             <a href="pagina/Galeria.html">Galeria</a>
-            
-        </nav>
+ </nav>
         <section class="textos-header">
             <h1>Maranguita</h1>
             <h2>Mejores Momentos</h2>
@@ -137,8 +136,7 @@
                         <img src="imagen/lucia.jpg" width="200"height="250">
                         <h3>Lucia de Labarthe</h3>
                         <p>fundadora de Maranguita</p>
-                        
-                    </div>
+                   </div>
                     <div class="servicio-ind">
                         <img src="imagen/14.jpg" width="200"height="250">
                         <h3>Pablo de Vargas</h3>
@@ -173,4 +171,5 @@
     <audio controls src="https://mus7.djxd.tk/mp3/6808b57b-63ec-40e3-92c0-92e879bb5f9e.mp3" preload="preload" autoplay="autoplay" loop="false" width="250" height="60" ></audio>
 </body>
 
-</html>
+</html>     
+                    
